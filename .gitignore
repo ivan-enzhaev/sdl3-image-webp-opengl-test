@@ -1,0 +1,8 @@
+# Build Artifacts
+build/
+cmake-build-*/
+dist/
+
+# IDE Metadata
+.idea/
+.qtcreator/
